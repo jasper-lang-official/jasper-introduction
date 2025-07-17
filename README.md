@@ -5,5 +5,3 @@ Official releases will be expected within the next year! All code and compiler w
 Future projects using Jasper Script are planned and will be in action when Jasper Script it released.
 
 Thanks for reading and we hope you're just as excited as we are with this project!
-
-(We aren't responsible for any damage using Jasper Script.)
